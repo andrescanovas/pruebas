@@ -2,7 +2,7 @@
 #  los diccionarios se manejan con el formato NOMBRE_DICCIONARIO = {CLAVE:VALOR,CLAVE:VALOR,CLAVE:VALOR}
 
 
-diccionario = {1:'Canox',5:'mikase',2:'goku',3:'vegeta',4:'gohan'}
+diccionario = {1:'hola',5:'mikase',2:'goku',3:'vegeta',4:'gohan'}
 
 
 
